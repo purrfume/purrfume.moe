@@ -1,0 +1,9 @@
+body a {
+    color: #cdd6f4;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+body a:hover {
+    color: #cba6f7;
+}
